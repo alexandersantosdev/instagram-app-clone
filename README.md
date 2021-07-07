@@ -2,4 +2,4 @@
 
 ### Recriando a interface do Instagram
 
-[imagem](!link)
+![Imagem do resultado](https://github.com/alexandersantosdev/instagram-app-clone/blob/main/Img.jpeg)
